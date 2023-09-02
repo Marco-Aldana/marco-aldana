@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Marco Aldana,
 I'm a software developer focused on `.Net Core` and `JavaScript` technologies.
 * I'm currently working as **full-stack software developer II** on Solera.
-* I have a [Portfolio/Blog](https://marco-aldana.vercel.app) where I share my projects, notes and some interesting data.
+* I have a Portfolio/Blog [Website](https://marco-aldana.vercel.app/contact) where I share my projects, notes and some interesting data.
 
 # Skills 🗡️
 * Languages:
