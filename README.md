@@ -22,26 +22,22 @@ I'm a software developer focused on `JavaScript` and `.Net Core` technologies.
 
 # Skills 🗡️
 * Languages:
-  * Javascript
-  * Typescript
+  * JavaScript (MERN)
   * C#
-  * Visual Basic
   * Python
 * Frameworks and libraries:
   * Node js
-  * Nest js
-  * GraphQL
   * React
+  * Express
   * Next Js
   * .Net Core
-  * ASP.Net
-  * Hot chocolate
-  * Fast API
+  * TypeScript
+  * GraphQL
 * Other tools:
-  * SQL
-  * Azure
+  * Postgresql
+  * AWS
   * Docker
-  * Git
+  * GitHub
  
  # Contact
  Please visit my [Website](https://marco-aldana.vercel.app/contact) on contact page.
