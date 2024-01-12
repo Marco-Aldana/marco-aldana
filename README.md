@@ -16,31 +16,31 @@ Here are some ideas to get you started:
 # Hello 😃
 
 My name is Marco Aldana,
-I'm a software developer focused on `JavaScript` and `.Net Core` technologies.
-* I'm currently working as **full-stack software developer II** on Solera.
-* I have a Portfolio/Blog [Website](https://marco-aldana.vercel.app) where I share my projects, notes and some interesting data.
+I'm a software developer focused on `.Net Core` and `JavaScript` technologies.
+* I'm currently working as **full-stack software developer** on Solera.
+* I have a Portfolio/Blog [Website](https://marco-aldana.com) where I share my projects, notes and some interesting data.
 
 # Skills 🗡️
+API's, MVC, Clean Architecture
 * Languages:
   * JavaScript (MERN)
   * C#
-  * Python
+  * SQL
 * Frameworks and libraries:
-  * Node js
-  * React
-  * Express
+  * .Net
   * Next Js
-  * .Net Core
-  * TypeScript
-  * GraphQL
+  * React
+  * Angular
+  * Nest
 * Other tools:
-  * Postgresql
   * AWS
   * Docker
   * GitHub
+  * Postman
+  * Tailwind
  
  # Contact
- Please visit my [Website](https://marco-aldana.vercel.app/contact) on contact page.
+ Please visit my [Website](https://marco-aldana.com) on contact page.
 
 
 
