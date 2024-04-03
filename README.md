@@ -23,21 +23,17 @@ I'm a software developer focused on `.Net Core` and `JavaScript` technologies.
 # Skills 🗡️
 API's, MVC, Clean Architecture
 * Languages:
-  * JavaScript (MERN)
   * C#
+  * JavaScript / Typescript
   * SQL
 * Frameworks and libraries:
   * .Net
   * Next Js
-  * React
-  * Angular
-  * Nest
 * Other tools:
   * AWS
   * Docker
-  * GitHub
-  * Postman
-  * Tailwind
+  * Git
+  * Tailwind & Bootstrap
  
  # Contact
  Please visit my [Website](https://marco-aldana.com) on contact page.
