@@ -28,9 +28,10 @@ API's, MVC, Clean Architecture
   * SQL
 * Frameworks and libraries:
   * .Net
+  * Wordpress
   * Next Js
 * Other tools:
-  * AWS
+  * Azure
   * Docker
   * Git
   * Tailwind & Bootstrap
