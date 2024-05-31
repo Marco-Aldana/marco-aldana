@@ -36,7 +36,7 @@ API's, MVC, Clean Architecture
   * Git
   * Tailwind & Bootstrap
  
- # Contact
+ # Contact 📞
  Please visit my [Website](https://marco-aldana.com) on contact page.
 
 
