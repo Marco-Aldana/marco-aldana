@@ -21,7 +21,7 @@ I'm a software developer focused on `.Net Core` and `JavaScript` technologies.
 * I have a Portfolio/Blog [Website](https://marco-aldana.com) where I share my projects, notes and some interesting data.
 
 # Skills 🗡️
-API's, MVC, Clean Architecture
+API's, MVC
 * Languages:
   * C#
   * JavaScript / Typescript
@@ -29,7 +29,6 @@ API's, MVC, Clean Architecture
 * Frameworks and libraries:
   * .Net
   * Wordpress
-  * Next Js
 * Other tools:
   * Azure
   * Docker
